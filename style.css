@@ -6,7 +6,7 @@
 
     .gameslist li {
         list-style: none;
-        border-bottom: 5px solid rgba(21, 89, 18, 0.977);
+        border-bottom: 5px solid rgba(114, 25, 25, 0.977);
         padding: 10px;
     }
 }
