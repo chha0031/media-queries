@@ -21,7 +21,7 @@
 @media screen and ( min-width:800px){
 
     .gameslist li {
-        border-right: 5px solid rgb(50, 106, 29);
+        border-right: 5px solid rgb(49, 92, 33);
         padding: 10px;
         float: left;
         list-style: none;
